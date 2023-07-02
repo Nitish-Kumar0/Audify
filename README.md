@@ -12,6 +12,24 @@ This web application provides the following features:
 - View and manage previous uploads.
 - Add captions or comments to audio files at specific timestamps.
 
+## Benefits of Audify
+
+Audify offers several advantages that make it a valuable tool for users:
+
+1. **Audio Extraction**: With Audify, users can easily extract audio from various video formats, enabling them to convert videos into audio files quickly.
+
+2. **Timestamped Comments**: Audify allows users to add comments or captions at specific timestamps in the audio files. This feature is especially useful for annotating important sections or providing context within the audio.
+
+3. **User-friendly Interface**: Audify provides a user-friendly web interface that simplifies the process of uploading videos, converting them to audio, and managing the files. The intuitive design makes it accessible to users of all levels of technical expertise.
+
+4. **Previous Upload History**: Users can conveniently access and manage their previous uploads within Audify. This feature enables easy organization and retrieval of converted audio files.
+
+5. **Cross-platform Compatibility**: Audify supports video sources from various platforms, including local device uploads, YouTube videos, Facebook videos, and Twitch streams. This versatility ensures that users can extract audio from a wide range of sources.
+
+6. **Secure User Authentication**: Audify implements user authentication to ensure secure access to the application. This safeguard protects user data and files from unauthorized access.
+
+By combining these benefits, Audify provides a comprehensive solution for users seeking to extract audio from videos and enhance their audio files with timestamped comments.
+
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python (Django)
