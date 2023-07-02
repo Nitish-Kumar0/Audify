@@ -20,7 +20,7 @@ This web application provides the following features:
 ## Necessary Libraries
 The following libraries need to be installed to run the code:
 - Django: Use the command `pip install django`.
-- Pytube: Use the command `pip install pytube`. Please note that there is a small bug in pytube related to extracting videos from YouTube links. You can refer to this [fix](https://github.com/pytube/pytube/issues/1678) for resolving the issue.
+- Pytube: Use the command `pip install pytube`. Please note that there are small bugs in pytube related to extracting videos from YouTube links. You can refer to this [fix1](https://github.com/pytube/pytube/issues/1678) and [fix2](https://stackoverflow.com/questions/68680322/pytube-urllib-error-httperror-http-error-410-gone) for resolving the issue.
 - Youtube-dl: Use the command `pip install youtube_dl`.
 - Moviepy: Use the command `pip install moviepy`.
 - Pydub: Use the command `pip install pydub`.
