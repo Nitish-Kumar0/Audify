@@ -13,7 +13,8 @@ comments at specific timestamps.
 - In addition to that they can also add captions to audio at specific timestamps.
 <br/>
 <br/>
-### Tech StackFrameworks:
+**Tech StackFrameworks:**\
+  <br/>
 - Frontend : HTML CSS JS
 - Backend : Python (Django)
 - Databasee : SQLite
