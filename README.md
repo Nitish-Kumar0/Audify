@@ -13,7 +13,7 @@ comments at specific timestamps.
 - In addition to that they can also add captions to audio at specific timestamps.
 <br/>
 <br/>
-**Tech StackFrameworks:**\
+**Tech StackFrameworks:**
   <br/>
 - Frontend : HTML CSS JS
 - Backend : Python (Django)
@@ -24,4 +24,16 @@ comments at specific timestamps.
 <br/>
 - Django
     - use command "pip install django"
-- 
+- Pytube
+    - use command "pip install pytube"
+    - there is a small bug in pytube which makes it unable to extract video given a youtube link you can resolve it by refer this [Fix](https://pages.github.com/](https://github.com/pytube/pytube/issues/1678)https://github.com/pytube/pytube/issues/1678).
+- Youtube-dl
+    - use command "pip install youtube_dl"
+- Moviepy
+    - use command "pip install moviepy"
+- Pydub
+    - use command "pip install pydub"
+- Mutagen
+    - use command "pip install mutagen"
+- FFMPEG
+    - refer this [guide](https://ffmpeg.org/about.html)
