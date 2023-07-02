@@ -53,4 +53,7 @@ Please make sure to install these libraries before running the code.
 3. Run the Django server using the command `python manage.py runserver`.
 4. Access the web application through your web browser by visiting `http://localhost:8000`.
 
+## Website Images
+1.![Audify Login](images/LogIn.png)
+
 Enjoy using Audify and convert your videos to audio with ease!
