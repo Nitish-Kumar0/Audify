@@ -1,39 +1,38 @@
 # Audify
+
 ## Overview
-A web application that converts videos in various formats to audio with the ability to add
-comments at specific timestamps.
-<br/>
-<br/>
+Audify is a web application that allows users to convert videos in various formats to audio files and add comments at specific timestamps.
+
 ## Description
-- This website is capable of extracting audio from uploaded videos or links.
-   - Uploaded from device and can be given in any video file format like .mp4 or .mo9
-   - Given in the form of a video link ( It can be a YouTube video link or a Facebook video link or a Twitch stream link).
-- It has User Authentication.
-- Users can view their previous uploads.
-- In addition to that they can also add captions to audio at specific timestamps.
-<br/>
-<br/>
-**Tech StackFrameworks:**
-  <br/>
-- Frontend : HTML CSS JS
-- Backend : Python (Django)
-- Databasee : SQLite
-<br/>
-<br/>
-### Necessary libraries to install for the above code:
-<br/>
-- Django
-    - use command "pip install django"
-- Pytube
-    - use command "pip install pytube"
-    - there is a small bug in pytube which makes it unable to extract video given a youtube link you can resolve it by refer this [Fix](https://pages.github.com/](https://github.com/pytube/pytube/issues/1678)https://github.com/pytube/pytube/issues/1678).
-- Youtube-dl
-    - use command "pip install youtube_dl"
-- Moviepy
-    - use command "pip install moviepy"
-- Pydub
-    - use command "pip install pydub"
-- Mutagen
-    - use command "pip install mutagen"
-- FFMPEG
-    - refer this [guide](https://ffmpeg.org/about.html)
+This web application provides the following features:
+- Conversion of uploaded videos or video links to audio files.
+  - Users can upload videos from their devices in any video file format, such as .mp4 or .mov.
+  - Video links from platforms like YouTube, Facebook, or Twitch can also be provided.
+- User authentication for secure access.
+- View and manage previous uploads.
+- Add captions or comments to audio files at specific timestamps.
+
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python (Django)
+- Database: SQLite
+
+## Necessary Libraries
+The following libraries need to be installed to run the code:
+- Django: Use the command `pip install django`.
+- Pytube: Use the command `pip install pytube`. Please note that there is a small bug in pytube related to extracting videos from YouTube links. You can refer to this [fix](https://github.com/pytube/pytube/issues/1678) for resolving the issue.
+- Youtube-dl: Use the command `pip install youtube_dl`.
+- Moviepy: Use the command `pip install moviepy`.
+- Pydub: Use the command `pip install pydub`.
+- Mutagen: Use the command `pip install mutagen`.
+- FFMPEG: Refer to this [guide](https://ffmpeg.org/about.html) for installation instructions.
+
+Please make sure to install these libraries before running the code.
+
+## Instructions
+1. Clone this repository to your local machine.
+2. Install the necessary libraries as mentioned above.
+3. Run the Django server using the command `python manage.py runserver`.
+4. Access the web application through your web browser by visiting `http://localhost:8000`.
+
+Enjoy using Audify and convert your videos to audio with ease!
