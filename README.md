@@ -54,6 +54,10 @@ Please make sure to install these libraries before running the code.
 4. Access the web application through your web browser by visiting `http://localhost:8000`.
 
 ## Website Images
-1.![Audify Login](images/LogIn.png)
+![Audify Login](images/LogIn.png)
+![Audify Signup](images/SignUp.png)
+![Audify Upload](images/Upload.png)
+![Audify Previous](images/PreviousUploads.png)
+![Audify View](images/ViewAudio.png)
 
 Enjoy using Audify and convert your videos to audio with ease!
