@@ -17,9 +17,9 @@ comments at specific timestamps.
 <br/>
 ##Tech Stack/Frameworks:
 <br/>
--Frontend : HTML CSS JS
--Backend : Python (Django)
--Databasee : SQLite
+- Frontend : HTML CSS JS
+- Backend : Python (Django)
+- Databasee : SQLite
 <br/>
 <br/>
 ##Necessary libraries to install for the above code:
