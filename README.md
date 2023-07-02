@@ -60,4 +60,11 @@ Please make sure to install these libraries before running the code.
 ![Audify Previous](images/PreviousUploads.png)
 ![Audify View](images/ViewAudio.png)
 
+## Demo
+
+https://github.com/Nitish-Kumar0/Audify/assets/109269353/ac7c470f-df5d-4968-b616-9be449a71faf
+
+
+
+
 Enjoy using Audify and convert your videos to audio with ease!
